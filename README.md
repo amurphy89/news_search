@@ -20,7 +20,7 @@ This will return the indices of any matching documents.
 
 ### Prerequisites
 
-This project requires Python3 to be installed, you may as want to run the application in a virtual Python environment. You can learn to install Python3 and virtualenv here:
+This project requires Python3 to be installed, you may want to run the application in a virtual Python environment. You can learn to install Python3 and virtualenv here:
 https://docs.python-guide.org/dev/virtualenvs/
 
 ## Running the tests
